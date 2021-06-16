@@ -8,6 +8,7 @@ public class Storage {
     private int XWonCount = 0;
     private int YWonCount = 0;
     int totalMoves = 0;
+    //
 
     public int getTotalMoves() {
         return totalMoves;
