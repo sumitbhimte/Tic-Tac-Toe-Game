@@ -36,9 +36,13 @@ objectives of this study are to:
 #JUnit 
 
 JUnit is an open source Unit Testing Framework for JAVA. 
+
 It is useful for Java Developers to write and run repeatable tests.
+
 JUnit is an open source framework, which is used for writing and running tests.
+
 Provides annotations to identify test methods.
+
 Provides assertions for testing expected results.
 Provides test runners for running tests.
 JUnit tests allow you to write codes faster, which increases quality.
