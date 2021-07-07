@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-Game
-JUnit Testing on XO Game
+  Unit Testing on XO Game
 
-# PURPOSE
+## PURPOSE
 
   The purpose of tic-tac-toe is to be the first player to get
 three in a row on a 3-by-3 grid or four in a row in a 4-by-4 grid.To
@@ -39,15 +39,15 @@ objectives of this study are to:
 
 ## JUnit 
 
-- 1. JUnit is an open source Unit Testing Framework for JAVA. 
-- 2. It is useful for Java Developers to write and run repeatable tests.
-- 3. JUnit is an open source framework, which is used for writing and running tests.
-- 4. Provides annotations to identify test methods.
-- 5. Provides assertions for testing expected results.
-- 6 .Provides test runners for running tests.
-- 7. JUnit tests allow you to write codes faster, which increases quality.
-- 8. JUnit is elegantly simple. It is less complex and takes less time.
-- 9. JUnit tests can be run automatically and they check their own results and provide immediate feedback.
-- 10. There’s no need to manually combbining through a report of test results.
-- 11. JUnit tests can be organized into test suites containing test cases and even other test suites.
-- 12. JUnit shows test progress in a bar that is green if the test is running smoothly, and it turns red when a test fails.
+- 1 JUnit is an open source Unit Testing Framework for JAVA. 
+- 2 It is useful for Java Developers to write and run repeatable tests.
+- 3 JUnit is an open source framework, which is used for writing and running tests.
+- 4 Provides annotations to identify test methods.
+- 5 Provides assertions for testing expected results.
+- 6 Provides test runners for running tests.
+- 7 JUnit tests allow you to write codes faster, which increases quality.
+- 8 JUnit is elegantly simple. It is less complex and takes less time.
+- 9 JUnit tests can be run automatically and they check their own results and provide immediate feedback.
+- 10 There’s no need to manually combbining through a report of test results.
+- 11 JUnit tests can be organized into test suites containing test cases and even other test suites.
+- 12 JUnit shows test progress in a bar that is green if the test is running smoothly, and it turns red when a test fails.
