@@ -29,25 +29,25 @@ The general objective of this study is to create a Game which provides
 a numerous techniques to play the game of Tic-Tac-Toe. The specific
 objectives of this study are to:
 
-- 1 Include the 9 tiles to play that decides who wins the game
-- 2 Implement a Reset module that reset the whole game
-- 3 Implement a both Player winning count module that shows how many times payer wins.
-- 4 At last include Exit Button that exits game
-- 5 test functionality of the whole system.
+- Include the 9 tiles to play that decides who wins the game
+- Implement a Reset module that reset the whole game
+- Implement a both Player winning count module that shows how many times payer wins.
+- At last include Exit Button that exits game
+- Test functionality of the whole system.
 
 <br>
 
 ## JUnit 
 
-- 1 JUnit is an open source Unit Testing Framework for JAVA. 
-- 2 It is useful for Java Developers to write and run repeatable tests.
-- 3 JUnit is an open source framework, which is used for writing and running tests.
-- 4 Provides annotations to identify test methods.
-- 5 Provides assertions for testing expected results.
-- 6 Provides test runners for running tests.
-- 7 JUnit tests allow you to write codes faster, which increases quality.
-- 8 JUnit is elegantly simple. It is less complex and takes less time.
-- 9 JUnit tests can be run automatically and they check their own results and provide immediate feedback.
-- 10 There’s no need to manually combbining through a report of test results.
-- 11 JUnit tests can be organized into test suites containing test cases and even other test suites.
-- 12 JUnit shows test progress in a bar that is green if the test is running smoothly, and it turns red when a test fails.
+- JUnit is an open source Unit Testing Framework for JAVA. 
+- It is useful for Java Developers to write and run repeatable tests.
+- JUnit is an open source framework, which is used for writing and running tests.
+- Provides annotations to identify test methods.
+- Provides assertions for testing expected results.
+- Provides test runners for running tests.
+- JUnit tests allow you to write codes faster, which increases quality.
+- JUnit is elegantly simple. It is less complex and takes less time.
+- JUnit tests can be run automatically and they check their own results and provide immediate feedback.
+- There’s no need to manually combbining through a report of test results.
+- JUnit tests can be organized into test suites containing test cases and even other test suites.
+- JUnit shows test progress in a bar that is green if the test is running smoothly, and it turns red when a test fails.
